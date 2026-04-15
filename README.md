@@ -34,4 +34,4 @@ This drill-through page offers a detailed profile of a specific job title, focus
 
 ## ✅ Conclusion
 
-This project demonstrates the use of Power BI to analyze and visualize real-world data job market trends. Through this project, I strengthened my skills in data visualization, dashboard design, and creating interactive reports to effectively communicate insights.
+This project demonstrates the use of Power BI to analyze and visualize real-world data job market trends. The final dashboard provides a clear, data-driven narrative of the 2024 job market, successfully bridging the gap between complex datasets and actionable career insights. Through this project, I strengthened my skills in data visualization, dashboard design, and creating interactive reports to effectively communicate insights.
