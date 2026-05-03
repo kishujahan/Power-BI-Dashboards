@@ -34,3 +34,23 @@ Each dashboard includes a detailed README documenting the details and features.
 
 
 
+<<<<<<< HEAD
+=======
+## 📊 Dashboard Overview
+
+### Page 1 : Job Market Overview
+
+![Dashboard Page 1 ](/images/proj1_page1.PNG)
+
+This page provides a high-level view of the data job market. It includes job count and salary benchmarks across various roles, allowing for a direct comparison between yearly and hourly compensation. This view helps identify which positions are dominating the market and how pay scales correlate with specific job titles.
+
+### Page 2 : Job Role Deep Dive
+
+![Dashboard Page 2 ](/images/proj1_page2.PNG)
+
+This drill-through page offers a detailed profile of a specific job title, focusing on the finer details. It evaluates key factors such as remote work availability, educational requirements, and standard benefits like health insurance. Furthermore, it identifies the primary recruitment platforms and geographic hotspots for the selected role, providing a comprehensive breakdown of the typical work environment and contract types.
+
+## ✅ Conclusion
+
+This project demonstrates the use of Power BI to analyze and visualize real-world data job market trends. The final dashboard provides a clear, data-driven narrative of the 2024 job market, successfully bridging the gap between complex datasets and actionable career insights. Through this project, I strengthened my skills in data visualization, dashboard design, and creating interactive reports to effectively communicate insights.
+>>>>>>> 4914027093a2c920f04890d9693d28ee8a46dceb
