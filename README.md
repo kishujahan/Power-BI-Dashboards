@@ -1,8 +1,12 @@
 # Power BI Portfolio: The Evolution of a Data Jobs Dashboard
 
-Building upon the foundations of my initial Data Jobs analysis, Data Jobs Dashboard 2.0 represents a significant technical leap in my Power BI journey. While the first version focused on core visualization and drill-through reporting, this iteration emphasizes dynamic user interaction and advanced data modeling.
+This repository documents the evolution of a comprehensive Data Jobs Dashboard, transitioning from foundational visualization principles to an advanced, parameter-driven interactive interface.
 
-This dashboard follows the architectural framework designed by [Luke Barousse](https://youtu.be/FwjaHCVNBWA?si=UvGyjyEYt34hRCKb). While the core metrics and parameters align with the tutorial, the development process involved significant independent troubleshooting, particularly in interface optimization, layer management, and precision formatting to ensure a production-ready finish.
+The goal of this project was to analyze global job market trends using Power BI, focusing on salary distributions, job availability, and regional insights. This repository is structured into two distinct development phases:
+
+- Project 1 (Foundational): Establishing core data modeling, geospatial mapping, and standard reporting metrics.
+
+- Project 2 (Advanced): Implementing dynamic field parameters, advanced DAX logic, and a refined user interface for deeper interactivity.
 
 # 📊 Featured Dashboards
 
