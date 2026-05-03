@@ -33,24 +33,18 @@ Each dashboard includes a detailed README documenting the details and features.
 [**View Project 1: Foundational Dashboard Documentation ➔**](/Data_jobs_v1/README.md)
 
 
+## Data Jobs Dashboard V2
 
-<<<<<<< HEAD
-=======
-## 📊 Dashboard Overview
+![](/images/Dashboard_2.0.PNG)
 
-### Page 1 : Job Market Overview
+### Key Skills Used:
 
-![Dashboard Page 1 ](/images/proj1_page1.PNG)
+- Enhanced Dashboard Design
+- Complex Power Query Transformations
+- Standard charts & Aggregation
+- Explicit DAX Measures 
+- Interactive Visualizations (Field Parameters & Slicers) 
+- Dynamic KPI Integration 
+- Advanced Filter Logic (Optimized Slicers & Cross-Filtering)
 
-This page provides a high-level view of the data job market. It includes job count and salary benchmarks across various roles, allowing for a direct comparison between yearly and hourly compensation. This view helps identify which positions are dominating the market and how pay scales correlate with specific job titles.
-
-### Page 2 : Job Role Deep Dive
-
-![Dashboard Page 2 ](/images/proj1_page2.PNG)
-
-This drill-through page offers a detailed profile of a specific job title, focusing on the finer details. It evaluates key factors such as remote work availability, educational requirements, and standard benefits like health insurance. Furthermore, it identifies the primary recruitment platforms and geographic hotspots for the selected role, providing a comprehensive breakdown of the typical work environment and contract types.
-
-## ✅ Conclusion
-
-This project demonstrates the use of Power BI to analyze and visualize real-world data job market trends. The final dashboard provides a clear, data-driven narrative of the 2024 job market, successfully bridging the gap between complex datasets and actionable career insights. Through this project, I strengthened my skills in data visualization, dashboard design, and creating interactive reports to effectively communicate insights.
->>>>>>> 4914027093a2c920f04890d9693d28ee8a46dceb
+[**View Project 2: Advanced Dashboard Documentation ➔**](/Data_jobs_v2/README.md)
